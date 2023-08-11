@@ -1,4 +1,4 @@
-# Graphing Calculator - README
+# Graphing Calculator
 
 ## Overview
 
